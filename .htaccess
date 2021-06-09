@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^public/(.*) http://127.0.0.1:2002/$1 [P]
